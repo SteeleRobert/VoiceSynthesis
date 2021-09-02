@@ -1,0 +1,3 @@
+Data/
+.azureml/
+src/tacotron2_statedict.pt

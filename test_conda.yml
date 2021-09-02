@@ -1,0 +1,6 @@
+name: test_conda
+channels:
+  - conda-forge
+dependencies:
+  - nvidia-apex
+
